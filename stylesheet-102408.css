@@ -1,0 +1,148 @@
+body {
+margin: 0px 0px 0px 0px;
+padding: 0px;
+font-family: Verdana, Geneva, Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: #000033;
+font-size: 12px;
+}
+div, p, th, td, li, dd, dl, dt, ul   {
+             /* redundant selectors for NS4 */
+    font-family:  verdana, geneva, arial, sans-serif;
+	color: #000033;
+	font-size: 12px;
+    }
+.bodycopy{
+    font-family:  verdana, geneva, arial, sans-serif;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #000000;
+	}
+.intro{
+    font-family:  verdana, geneva, arial, sans-serif;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+	color:#003399;
+	}
+.subhead{
+	font-weight:bold;
+	color:#993300;
+	font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+	}
+.subhead2{
+	font-weight:bold;
+	color:#003399;
+	font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+	}
+.subhead3{
+	font-weight:bold;
+	color:#003399;
+	font-style: italic;
+	font-size: 12px;
+	}
+.subhead4{
+	font-weight:bold;
+	color:#993300;
+	font-size: 14px;
+	}
+.red{
+	font-weight:bold;
+	color:#CC0000;
+	font-style: italic;
+	font-size: 12px;
+	}
+.head{
+	padding-top: 10px;
+	font-weight:bold;
+	color:#003399;
+	font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-style: italic;
+	}
+hr	{
+	color: #993300;
+	width: 400;
+	}
+.quote{
+	Margin-left: 30pt;
+	Margin-right:30pt;
+	color:#003399;
+	font-style: italic;
+	}
+A:link {
+	color:#993300;
+	}
+A:visited {
+	color:#003399;
+	}	
+A:hover {
+	color:#000000;
+	}
+
+.bodyA {
+	color:#993300;
+	}
+.bodyA:visited {
+	color:#003399;
+	}	
+.bodyA:hover {
+	color:#000000;
+	}
+.footer{
+	font-size:11px;
+	text-align:center;
+	}
+.footA {
+	color:#993300;
+	font-size:11px;
+	}
+.footA:visited {
+	color:#003399;
+	font-size:11px;
+	}	
+.footA:hover {
+	color:#000000;
+	font-size:11px;
+	}
+.navA {
+	color:#003399;
+	text-decoration: none;
+    font-size: 11px;
+	}
+.navA:visited {
+	color:#003399;
+	text-decoration: none;
+	font-size: 11px;
+	}	
+.navA:hover {
+	color:#000000;
+	text-decoration: none;
+	font-size: 11px;
+	}
+
+.border	{
+	border: 1px solid black;
+	}
+.sideA {
+	color:#993300;
+	text-decoration: none;
+	font-size: 10px
+	}
+.sideA:visited {
+	color:#993300;
+	text-decoration: none;
+	font-size: 10px
+	}	
+.sideA:hover {
+	color:#993300;
+	text-decoration: underline;
+	font-size: 10px
+	}
+
+

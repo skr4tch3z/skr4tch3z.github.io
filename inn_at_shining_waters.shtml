@@ -1,0 +1,75 @@
+<!--#include FILE="header.html"-->
+<a href="index.shtml"><img src="images/header_womens_fiction.png" class="center" border="0"></a>
+<!--#include FILE="header2.html"-->
+
+<br><br><br>
+
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+    <tr>
+	  <td style="vertical-align: top;">
+		<p class="subhead">River's Song</p>
+		<br>
+		<p class="bodycopy">Following her mother's funeral, and on the verge of her own midlife crisis, widow Anna Larson returns to the home of her youth to sort out her parents' belongings, as well as her own turbulent life. Her relationship with her daughter is in shambles, and the tension between Anna and her vicious mother-in-law escalates daily.</p>
+		<br>
+		<p class="bodycopy">Anna's unique family home sits on a picturesque coastal tributary and is filled with years of memories. For the first time since childhood, Anna embraces her native heritage and river roots. But Anna soon learns that more than just her past resides along the banks of the Siuslaw River.</p>
+		<br>
+		<p class="bodycopy">By transforming her old family home into The Inn at Shining Waters, Anna hopes to create a place of healing-a place where guests experience peace, grace, and new beginnings.</p>
+		<br>
+		<p class="bodycopy">Starting with her own family . . . </p>
+		<br>
+	  </td>
+	  <td style="vertical-align: top;">
+		<img src="images/rivers_song.jpg">
+	  </td>
+	</tr>
+<BR>
+    <tr>
+      <td style="vertical-align: top;">
+		  <p class="subhead" align="center">River's Call</p>
+		  <BR>
+		  <p class="bodycopy">Anna Larson's daughter, Lauren, is confused, brokenhearted, and misguided. It's the turbulent 1960s and, feeling alienated from her mother, Lauren chooses to stay with her paternal grandmother. However, repelled by the woman's manipulative and spiteful ways, Lauren returns to her mother, the river, and the Inn at Shining Waters.</p>
+		  <BR>
+		  <p class="bodycopy">There, Lauren begins to appreciate the person her mother is becoming--and she loves the river. However, romantic interests throw a wrench into the works and Lauren, jealous and angry, returns to her grandmother yet again.</p>
+		  <BR>
+		  <p class="bodycopy">But as time passes, Lauren, now a mother to her own defiant teenager, faces a new crisis--one that puts the entire family at risk.</p>
+      </td>
+      <td style="vertical-align: top;">
+		  <img alt="River's Call" src="images/river's call.jpg">
+      </td>
+    </tr>
+<BR>
+    <tr>
+		<td style="vertical-align: top;">
+			<p class="subhead" align="center">River's End</p>
+			<BR>
+			<p class="bodycopy">In the final story of The Inn at Shining Waters, Anna Larson's granddaughter Sarah is beginning to find her independence. But her relationship with her parents suffers as a result and she travels away from all that is familiar.</p>
+			<BR>
+			<p class="bodycopy">While the solace of the river calls Sarah back, surprises await upon her return. Three generations of family heartbreak and disappointments converge at Shining Waters as Sarah finds God right in the center of it all.</p>
+			<BR>
+		</td>
+			<td style="vertical-align: top;">
+			<img alt="River's End" src="images/river's end.jpg">
+		</td>
+	</tr>
+<BR>
+	<tr>
+		<td style="vertical-align: top;">
+			<p class="subhead" align="center">Healing Waters</p>
+			<BR>
+			<p class="bodycopy">In Healing Waters—the first study in the new Faith and Fiction Bible study series—popular Christian fiction author Melody Carlson draws upon her novels in The Inn at Shining Waters trilogy to invite women on an exciting journey toward healing. Using the stories, themes, and characters of the novels as a backdrop, this eight-week study explores the need for forgiveness and mercy in one's life and the role that second chances and new beginnings play in healing women's spirits and relationships.</p>
+			<BR>
+			<p class="bodycopy"> The Participant Book is an all-inclusive guide providing summaries of the three novels—River’s Song, River’s Call, and River’s End—character sketches of the main characters, excerpts from the novels, and five daily Bible study readings for each week. Each day’s reading includes reflection questions with space for recording responses, a short prayer, and an “As You Go” idea or suggestion. Although reading the novels is not required to participate in the study, women may choose to read the novels in tandem with the study to enrich the overall experience.</p>
+			<BR>
+		</td>
+			<td style="vertical-align: top;">
+			<img alt="Healing Waters" src="images/healing waters.jpg">
+		</td>
+	</tr>
+  </tbody>
+</table>
+
+<!--#include FILE="footer.html"-->
+</div>
+</body>
+</html>

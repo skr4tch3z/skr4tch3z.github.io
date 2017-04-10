@@ -1,0 +1,20 @@
+<!--#include FILE="header.html"-->
+<a href="index.shtml"><img src="images/header_view.png" class="center" border="0"></a>
+<!--#include FILE="header2.html"-->
+
+<br><br>
+<p class="head">
+My Dream Team...
+</p>
+<br><br><br>
+
+<p class="bodycopy">As I mentioned in my newsletter, I get letters from readers who say: "I'm your biggest fan." Is that you???</p>
+<br>
+<p class="bodycopy">If so, you're in the right place. As I'm looking to this new year, I have some new ideas regarding my career. But they're the kind of ideas that need the help of a team--a DREAM TEAM! Actually, it's something I've been dreaming of...and something I hope just the right readers will be interested in. I believe everyone has different gifts and I'm hoping you'll want to partner with me with yours. So if you're interested in things like reading books...or talking about books...or praying for authors...or doing book reviews...or starting book clubs...or receiving free books to review...or a lot of other book related things, I hope you'll consider joining this team. To hear more about this idea, please, email me at <a href="mailto:melodycarlson@gmail.com">melodycarlsonbooks@gmail.com</a> and I'll send you a detailed letter explaining how the concept works. Thanks so much for your interest!</p>
+
+<br><br>
+
+<img src="images/dream_team.jpg" class="center"/>
+
+
+<!--#include FILE="footer.html"-->

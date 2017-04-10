@@ -1,0 +1,22 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_photo_album.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<P class="bodycopy" valign="top" align="center">
+<IMG SRC="images/old_faithful.jpg">
+<BR><BR>
+Here are a couple of geezers in front of the geyser. Me and my honey at Yellowstone Park.
+<BR><BR><BR>
+<IMG SRC="images/expo_signing.jpg">
+<BR><BR>
+This was book signing at a CBA event. I must not have known there was a camera around because I actually look somewhat relaxed.
+</P>
+<P align="center">
+<A HREF="photo_album.shtml">Page 1</A> | 
+Page 2 | 
+<A HREF="photos3.shtml">Page 3</A> | 
+<A HREF="photos4.shtml">Page 4</A> |
+<A HREF="photos5.shtml">Page 5</A> |
+<A HREF="photos6.shtml">Page 6</A>
+</P>
+<!--#include FILE="footer.html"-->

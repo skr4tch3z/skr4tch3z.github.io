@@ -1,0 +1,63 @@
+<!--#include FILE="header.html"-->
+<a href="index.shtml"><img src="images/header_womens_fiction.png" class="center" border="0"></a>
+<!--#include FILE="header2.html"-->
+
+<br><br><br>
+
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+   	<tr>
+      <td style="vertical-align: top;">
+      	<p class="subhead" align="center">A Home at Trail's End</p>
+        <br>
+ 		<p class="bodycopy">Elizabeth Martin and her two children have finally reached the Oregon Country. But Eli Kincade, the wagon train scout who captured her heart, has chosen to continue life on the trail. As other pioneer families begin building new homes, Elizabeth has never felt more alone.</p>
+ 		<br>
+ 		<p class="bodycopy">However, when Eli unexpectedly returns, confesses his love, and proposes, Elizabeth accepts with her family's blessing.</p>
+ 		<br>
+ 		<p class="bodycopy">A community begins to take shape, but not without growing pains. As an alternative to the local minister's fiery sermons, Elizabeth's father begins to preach at home, raising the ire of some. Racial biases arise against Brady, Elizabeth's African-American hired hand. Eli's warm sentiments toward Indians also raises concerns.</p>
+ 		<br>
+ 		<p class="bodycopy">Can Elizabeth and her family overcome these differences and begin a legacy of reconciliation and love?</p>
+ 	  </td>
+      <td style="vertical-align: top;">
+    <img alt="A Home at Trail's End" src="images/a home at trail's end.jpg">
+      </td>
+    </tr>
+    <tr>
+		<td style="vertical-align: top;">
+			<p class="subhead" align="center">Westward Hearts</p>
+			<BR>
+			<p class="bodycopy">Kentucky, 1854--Elizabeth Martin has mourned her husband's death for three years, but now she feels ready to fulfill the dream they had shared--to take their two children west. The dream becomes reality when her middle-aged parents and bachelor brother surprise her with the news that they want to go as well.</p>
+			<BR>
+			<p class="bodycopy">After converting three of their best wagons to prairie schooners and thoroughly outfitting them, the little party travels from Kentucky to Kansas City, where they join a substantial wagon train. Elizabeth soon finds herself being drawn to the group's handsome guide, Eli Kincade.</p>
+			<BR>
+			<p class="bodycopy">The long journey and deepening relationships challenge the travelers to their core, and Eli's mysterious past leaves Elizabeth with more questions than answers. She knows there's no turning back, but she wonders, What have I gotten myself into?</p>
+			<BR>
+			<p class="bodycopy">About This Series: The Homeward on the Oregon Trail series brings to life the challenges a young widow faces as she journeys west, settles her family in the Pacific Northwest, and helps create a new community among strong-willed and diverse pioneers.</p>
+			<BR>
+		</td>
+			<td style="vertical-align: top;">
+			<img alt="Westward Hearts" src="images/westward hearts.jpg">
+		</td>
+	</tr>
+<BR>
+    <tr>
+		<td style="vertical-align: top;">
+			<p class="subhead" align="center">A Dream for Tomorrow</p>
+			<BR>
+			<p class="bodycopy">Elizabeth Martin and her two children have made it through the easy part of their journey, but now their wagon train faces high mountain passes, dangerous river crossings, and decreasing supplies. Desperate circumstances bring out the best and worst of the travelers, including Will Bramford, the wealthy widower who is pursuing Elizabeth, and Eli Kincade, the independent and solitary guide who has stolen Elizabeth's heart.</p>
+			<BR>
+			<p class="bodycopy">As the group reaches the Oregon Country, the emigrants part ways to find their new homes. Elizabeth and Will and their families have made arrangements to board a ship that will take them south along the coast. Will Eli change his plans and accompany Elizabeth to her new and permanent home? Or will his mysterious past continue to keep them from love?
+			</p>
+		</td>
+		<td style="vertical-align: top;">
+			<img alt="A Dream for Tomrrow" src="images/a dream for tomorrow.jpg">
+		</td>
+	</tr>
+<BR>
+ </tbody>
+</table>
+
+<!--#include FILE="footer.html"-->
+</div>
+</body>
+</html>

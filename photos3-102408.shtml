@@ -1,0 +1,23 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_photo_album.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<P class="bodycopy" valign="top" align="center">
+<IMG SRC="images/mc_with_bailey.jpg">
+<BR><BR>
+This is Bailey and me in our kitchen before water damage and the remodel which is still not finished. 
+I'll try to get the "before" pics posted soon.
+<BR><BR><BR>
+<IMG SRC="images/house_closeup.jpg">
+<BR><BR>
+This is a shot of where we live...kind of like summer camp and it even has a very tall flag pole out by the driveway.
+<BR><BR><BR>
+<IMG SRC="images/july_4th_barbeque.jpg">
+<BR><BR>
+Believe it or not, I was the neighborhood horse shoe champ (with my partner) for two years running at the annual Fourth of July picnic. We actually win money!
+</P>
+<P align="center">
+<A HREF="photo_album.shtml">Page 1</A> | <A HREF="photos2.shtml">Page 2</A> | 
+Page 3 | <A HREF="photos4.shtml">Page 4</A>
+</P>
+<!--#include FILE="footer.html"-->

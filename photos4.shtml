@@ -1,0 +1,25 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_photo_album.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<P class="bodycopy" valign="top" align="center">
+<IMG SRC="images/signing1213.jpg">
+<BR><BR>
+Meeting booksellers at BEA Convention, New York
+<BR><BR><BR>
+<IMG SRC="images/signing1206.jpg">
+<BR><BR>
+Signing Hidden History at the show<BR><BR><BR>
+<IMG SRC="images/signing1216.jpg">
+<BR><BR>
+With my Guideposts editors
+</P>
+<P align="center">
+<A HREF="photo_album.shtml">Page 1</A> | 
+<A HREF="photos2.shtml">Page 2</A> | 
+<A HREF="photos3.shtml">Page 3</A> |
+Page 4 |
+<A HREF="photos5.shtml">Page 5</A> |
+<A HREF="photos6.shtml">Page 6</A>
+</P>
+<!--#include FILE="footer.html"-->

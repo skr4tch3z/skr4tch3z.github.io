@@ -1,0 +1,52 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_view.png" border="0" class="center"></A>
+<!--#include FILE="header2.html"-->
+
+<br><br><br>
+
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+	<tr>
+      <td style="vertical-align: top;">
+		  <p class="subhead" align="center">Jerk Magnet</p>
+		  <BR>
+		  <p class="bodycopy">When Chelsea Martin's future stepmother helps her transform from gawky and geeky into the hottest girl at her new school, Chelsea is pretty sure it's the best thing that ever happened to her. But her hot new look has a downside. She's attracting lots of guys who all have one thing in common: they're jerks. Oh, and stealing the attention of all the guys in school doesn't exactly make her BFF material for the girls.</p>
+		  <br>
+		  <p class="bodycopy">Finally a great guy catches her eye. But he's the only one around who doesn't give her a second glance. Can Chelsea come up with a plan to get his attention? Or will her new image ruin everything?</p>
+		  <br>
+		  <p class="bodycopy"><a href="http://www.youtube.com/embed/n3QrUlmBizM">Check out the new trailer.</a></p>
+      </td>
+      <td style="vertical-align: top;">
+		  <img alt="Jerk Magnet" src="images/jerk magnet.jpg">
+	  </td>
+    </tr>
+	<tr>
+        <td style="vertical-align: top;">
+		  <p class="subhead" align="center">The Best Friend</p>
+		  <BR>
+		  <p class="bodycopy">Lishia Vance is totally baffled. One day she has friends. The next day everyone has turned against her. No explanation. Just complete social isolation. Even her best friend Janelle isn't giving her the time of day. </p>
+		  <br>
+		  <p class="bodycopy">Now she has one goal for her junior year at Kingston High: make a new best friend.</p>
+		  <br>
+		  <p class="bodycopy">When Lishia makes a connection with Riley Atkins, a popular cheerleader, things start looking up. But is Riley really as good a friend as she seems? Or is Lishia better off without her?</p>
+      </td>
+      <td style="vertical-align: top;">
+		  <img alt="The Best Friend" src="images/the best friend.jpg">
+		  <br>
+      </td>
+    </tr>
+	<tr>
+        <td style="vertical-align: top;">
+		  <p class="subhead" align="center">Prom Queen</p>
+		  <BR>
+		  <p class="bodycopy">Megan Bernard would sell her soul to be prom queen. Okay, maybe not her soul. But her popular older sister Belinda was prom queen last year, and Megan is certain that the only thing that would make her truly happy would be to attain the same honor. Her mom thinks it would be pretty cool too. But when Megan decides she'll do whatever it takes to take home the crown, life gets decidedly complicated. Maybe "celebrity" isn't all it's cracked up to be after all.</p>
+      </td>
+      <td style="vertical-align: top;">
+		  <img alt="Prom Queen" src="images/prom queen.jpg">
+		  <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--#include FILE="footer.html"-->

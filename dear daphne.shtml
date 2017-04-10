@@ -1,0 +1,58 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_teen_fiction.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<br>
+<br>
+<p class="head" align="center">Dear Daphne</p>
+<br>
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+     <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">Home, Hearth and the Holidays</p>
+        <br>
+        <p class="subhead" align="center">A Dear Daphne Novel</p>
+        <br>
+        <p class="bodycopy">With holidays approaching in the charming town of Appleton, and Daphne Ballinger's deadline to "get hitched" drawing closer, Daphne finds herself happily distracted with the unexpected tasks of "motherhood" Young Mabl is enjoying the attention, but the clock is ticking and unless love comes her way, Daphne's delightful life will start unraveling by spring.
+        </p>
+        <br>
+        <a href="http://amzn.com/1939023718"><p class="centeredImage"><img alt="Buy This on Amazon" src="images/amazon button.gif"></p></a>
+      </td>
+        <td style="vertical-align: top;">
+      <img alt="Home Hearth Holidays" src="images/home hearth holidays.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">Dating, Dining, and Desperation</p>
+        <br>
+        <p class="bodycopy">Daphne Ballinger has learned to accept her deceased, eccentric aunt’s strange request that she marry in order to inherit her estate, along with taking over her aunt’s hometown paper’s advice column.</p>
+        <br>
+        <p class="bodycopy">But knowing and accepting that God’s will be done becomes harder when a new neighbor, a divorced socialite, learns of Daphne’s predicament and takes on the task of finding her the perfect man, even if it includes speed dating. When God does open Daphne’s heart, it is instead to take in a young girl left parentless and in the care of her dying grandmother. It may be a temporary arrangement until the girl’s uncle returns from the Marines, but God uses Daphne to speak His heavenly love and protection into the life of the child -- whom Daphne soon discovers has a very handsome and single uncle.</p>
+        <br>
+      </td>
+      <td style="vertical-align: top;">
+        <img alt="Dating, Dining, and Desperation" src="images/dating dining and desperation.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">LOCK STOCK AND OVER A BARREL</p>
+        <br>
+        <p class="bodycopy">With high hopes, Daphne Ballinger lands her dream job at The New York Times. But it's not long until writing about weddings becomes a painful reminder of her own failed romance, and her love of the city slowly sours as well. Is it time to give up the Big Apple for her small hometown of Appleton?</p>
+        <br>
+        <p class="bodycopy">When her eccentric Aunt Dee passes away and leaves a sizeable estate to Daphne, going back home is an easy choice. What isn’t easy is coming to terms with the downright odd clauses written into the will.</p>
+        <br>
+        <p class="bodycopy">Daphne only stands to inherit the estate if she agrees to her aunt's very specific posthumous terms -- personal and professional. And if she fails to comply, the sprawling old Victorian house shall be bequeathed to . . . Aunt Dee’s cats.</p>
+        <br>
+        <p class="bodycopy">And if Daphne thinks that’s odd, wait until she finds out an array of secrets about Aunt Dee's life, and how imperfect circumstances can sometimes lead to God's perfect timing.</p>
+      </td>
+      <td style="vertical-align: top;">
+        <img alt="Lock Stock and Over a Barrel" src="images/lock stock.jpg">
+      </td>
+    </tr>
+  </tbody>
+<table>
+
+<!--#include FILE="footer.html"-->

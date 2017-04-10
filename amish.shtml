@@ -1,0 +1,62 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_teen_fiction.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<br>
+<br>
+<p class="head" align="center">New Releases</p>
+<br>
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+
+    <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">My Amish Boyfriend</p>
+        <br>
+        <p class="bodycopy">Sixteen-year-old Shannon McNamara plans to get three things this summer-a driver's license, a job, and a tattoo- until a move to rural Ohio and a handsome Amish boy make her think twice.</p>
+        <br>
+      </td>
+      <td style="vertical-align: top;">
+      <img alt="My Amish Boyfriend" src="images/my amish boyfriend.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">Trading Secrets</p>
+        <br>
+        <p class="bodycopy">Back in fifth grade, Micah Knight got an Amish pen pal, and over the years, they've exchanged many letters--and many secrets. At age seventeen, Micah finally has the chance to meet her pen pal face-to-face. The only problem is that because of confusion about her name when the pen pals were assigned, her pen pal was a boy, Zack Miller. And all this time, Micah's never told Zack that she's actually a girl! While she wants nothing more than to experience life on Zack's Amish farm, she's afraid he'll hate her for deceiving him all these years. But she makes up her mind to face the music--and that's where the fun really begins.</p>
+        <br>
+      </td>
+      <td style="vertical-align: top;">
+      <img alt="Trading Secrets" src="images/trading secrets.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+      <p class="subhead" align="center">Double Take</p>
+	  <BR>
+      <p class="bodycopy">It's spring break of her senior year and Madison Van Buren is fed up. Stressed over Ivy League pressure, her parents' marital problems, and her boyfriend's neglect, Madison gets in her car and drives west. Meanwhile, eighteen-year-old Anna Bronner wants to escape the so-called simple life—which for her consists of caring for younger siblings, sewing, cooking, and gardening—and she's well aware that her future will simply be more of the same with a man she doesn't love. Suddenly, worlds collide when Madison and Anna meet in a small town, realize they look uncannily similar, and decide the grass is definitely greener on the other side.</p>
+      <br>
+	  <p class="bodycopy">Readers will love this funny and provocative tale of switching places from bestselling author Melody Carlson. As they get a glimpse into two very different worlds, they may find themselves happy to be just who they are, where they are.</p>
+      </td>
+      <td style="vertical-align: top;">
+	  <a href="http://gan.doubleclick.net/gan_click?lid=41000000036163345&pubid=21000000000367620">
+	  <img alt="alt" src="images/doubletake.jpg">
+	  </a>
+	  <br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">A SIMPLE SONG</P>
+        <br>
+        <p class="bodycopy">Katrina Yoder loves to sing, but her Amish parents view singing as vainglory and a sin. Katrina's best friend, Bekka, is convinced Katrina should try out for American Star, a televised singing competition that Bekka has been secretly watching. Katrina resists the temptation until her father's health worsens. He desperately needs a surgery the family cannot afford. Katrina decides she must go against her parents' wishes to win the money needed to help her father. But how will she handle herself as an Amish teenager out in the world?</P>
+        <br>
+      <td style="vertical-align: top;">
+        <IMG alt="A Simple Song" src="images/a simple song.jpg " align="right" hspace="10">
+      </td>
+  </tr>
+  </tbody>
+<table>
+
+<!--#include FILE="footer.html"-->

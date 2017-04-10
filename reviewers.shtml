@@ -1,0 +1,91 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_contact.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<div class="bodycopy">
+<P class="headNI">
+REVIEWERS
+</P>
+
+<!--
+<p>
+ATTN: BLOG REVIEWERS
+</p>
+<BR>
+<p>
+To contact NavPress email:<A HREF="bloggerreview@navpress.com">bloggerreview@navpress.com</A>
+</p>
+<BR>
+<P>
+And here is the link to our blogger review info and what is required:
+</P>
+<A HREF="http://www.navpress.com/BloggerReviewProgram.aspx">NavPress Blogger Review Program</A>
+
+<BR>
+<BR>
+
+<P>
+If have an established personal blog or website and would like to
+review one of my books, you may be eligible to receive a free
+review copy. 
+</P>
+<P>
+Each of my publishers has a slightly different policy, so I will list them separately.
+</P>
+<br>
+<P>Baker/Revell</P>
+<P>
+To submit your blog or website for consideration, email
+Claudia Marsh, my publicist at Baker Revell, at cmarsh@BakerPublishingGroup. 
+In the subject line, please write MelodyCarlson.com. In the body of the email, include your
+name, street address, and a link to your blog. A limited number of
+books are available, so email now! 
+</P>
+<br>
+<br>
+<P>
+To submit your blog or website for consideration, email
+my publicist Lindsey Rodarmer at lindsey.rodarmer@zondervan.com by March 1.
+Please include your name, non-PO Box street address, and a link to your blog along with approximately how many monthly visitors your blog receives. A limited number of books are available, so email now!
+</P>
+
+<BR clear="all">
+<HR width="400" align="center">
+-->
+
+
+<BR>
+
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+  	<tr>
+      <td style="vertical-align: top;">
+      <p class="subhead" align="center">ENTICED</p>
+      <br>
+    <p class="bodycopy">Sixteen-year-old Simi Fremont thinks she’s found her dream job and the solution to her family’s money problems. But the modeling agency she found online is not what it seems. It’ll take every bit of her faith for her to escape the dangerous scheme and survive.</p>
+    <br>
+    <p class="bodycopy">If you are interested in reviewing Enticed, please contact the <A HREF="http://www.navpress.com/BloggerReviewProgram.aspx">NavPress Blogger Review Program</A></p>
+      </td>
+      <td style="vertical-align: top;">
+    <img alt="Enticed" src="images/enticed.jpg">
+      </td>
+  </tr>
+  <br>
+	<tr>
+	  <td style="vertical-align: top;">
+	  <p class="subhead" align="center">A SIMPLE SONG</P>
+    <br>
+	  <p class="bodycopy">Katrina Yoder loves to sing, but her Amish parents view singing as vainglory and a sin. Katrina's best friend, Bekka, is convinced Katrina should try out for American Star, a televised singing competition that Bekka has been secretly watching. Katrina resists the temptation until her father's health worsens. He desperately needs a surgery the family cannot afford. Katrina decides she must go against her parents' wishes to win the money needed to help her father. But how will she handle herself as an Amish teenager out in the world?</P>
+	  <br>
+	  <p class="bodycopy">Teen girls will be swept into the excitement as Katrina ventures out of her quiet Amish world to become a reality television star. Will she be successful? And will she be accepted back into her community when it's over?</P>
+	  <br>
+	  <p class="bodycopy">If you are interested in reviewing A Simple Song, please contact <a href="mailto:cmarsh@BakerPublishingGroup">Claudia Marsh</a>, my publicist at Baker. In the subject line, please write MelodyCarlson.com. In the body of the email, include your name, street address, and a link to your blog.</p>
+	  </td>
+	  <td style="vertical-align: top;">
+	  <IMG alt="A Simple Song" src="images/a simple song.jpg " align="right" hspace="10">
+	  </td>
+	</tr>
+  </tbody>
+</table>
+ 
+<!--#include FILE="footer.html"-->

@@ -1,0 +1,42 @@
+<!--#include FILE="header.html"-->
+<A HREF="index.shtml"><IMG SRC="images/header_teen_fiction.png" class="center" border="0"></A>
+<!--#include FILE="header2.html"-->
+
+<br>
+<br>
+<p class="head" align="center">New Releases</p>
+<br>
+<table style="width: 640px;" cellpadding="10">
+  <tbody>
+  	<tr>
+      <td style="vertical-align: top;">
+      	<p class="subhead" align="center">First Date</p>
+        <br>
+ 		<p class="bodycopy">Five high school friends have one thing in common as they start their sophomore year: none of them have ever been on a "real" date. With homecoming looming, they make a pact and start a secret club they call the DG (Dating Game). They're sworn to secrecy--and to purity--but the club is their way to set each other up on their first dates so they can report back to the DG. Of course, they all make different choices about how to deal with their parents and how to act on their dates, and they discover that they all have totally different experiences. Still, the things they learn about boys and dating will stick with them throughout high school.</p>
+ 		<br>
+ 		<p class="bodycopy"></p>
+ 		<br>
+ 	  </td>
+      <td style="vertical-align: top;">
+    	<img alt="First Date" src="images/first date.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <p class="subhead" align="center">Blind Date</p>
+        <br>
+        <p class="bodycopy">Devon, Emma, Cassidy, Bryn, and Abby are ready for their next Dating Games challenge: setting each other up on blind dates for the upcoming masquerade ball.</p>
+        <br>
+        <p class="bodycopy">But trouble is brewing. Some of the girls are questioning whether their friends can be trusted to deliver on their promises. In fact, there's a very real danger that this dating treat could turn into a nasty trick.</p>
+        <br>
+        <p class="bodycopy">Will their club&mdash;and their friendships&mdash;survive?</p>
+      <br>
+      </td>
+      <td style="vertical-align: top;">
+      <img alt="Blind Date" src="images/blind date.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--#include FILE="footer.html"-->
